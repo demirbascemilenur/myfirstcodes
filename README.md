@@ -11,7 +11,7 @@ This repository contains my beginner-level C and Java projects.
 |------|-------------|
 | Trafiklambasi.c | Traffic light simulation with timer |
 | atmgiris.c | ATM login simulation with balance check |
-| hesapmakinesi.c | Basic calculator (+, -, *, /) |
+| hesap makinesi.c | Basic calculator (+, -, *, /) |
 | kahvemakinesi.c | Coffee machine simulation |
 | metinsansuru.c | Text censorship using pointers |
 | sinavnotlari.c | Exam grade average calculator |
